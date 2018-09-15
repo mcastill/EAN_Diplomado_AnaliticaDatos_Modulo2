@@ -6,7 +6,7 @@ Módulo 2: Introducción a inteligencia de negocios
  - Datawarehouse
  - ETL
  - Cubos
- - Power BI - Tablau
+ - Power BI - Tableau
  
  
  Al final, usted podrá reconocer los siguientes aspectos:  
