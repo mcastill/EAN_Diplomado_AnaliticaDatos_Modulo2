@@ -19,3 +19,4 @@ Módulo 2: Introducción a inteligencia de negocios
  - Cómo se visualiza y explora la información de BI. 
  
  
+http://www.dadesobertes.gva.es/va/dataset/agr-cont-atmos-md-2013
